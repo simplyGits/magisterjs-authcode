@@ -1,1 +1,1 @@
-module.exports = 'c39f6a'
+module.exports = require('./code.json')
