@@ -1,0 +1,12 @@
+{
+  "name": "@magisterjs/authcode",
+  "version": "1.0.0",
+  "description": "a little code required by magisterjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lieuwe Rooijakkers <lieuwerooijakkers@gmail.com> (http://www.lieuwe.xyz/)",
+  "license": "Unlicense"
+}
