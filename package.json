@@ -1,6 +1,6 @@
 {
   "name": "@magisterjs/authcode",
-  "version": "1.25.0",
+  "version": "1.26.0",
   "description": "a little code required by magisterjs",
   "main": "index.js",
   "scripts": {
